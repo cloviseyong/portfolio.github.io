@@ -58,6 +58,7 @@ padding-right: 10px;
 }
 .block {
   height: 600px;
+  display: flex;
   background-color: #79a3b1;
 }
 
