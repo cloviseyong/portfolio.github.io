@@ -55,10 +55,12 @@ padding-right: 10px;
   letter-spacing: 8px;
   color: #FFF;
   padding-top: 20px;
+  padding-bottom: 20px;
 }
 .block {
   height: 600px;
   background-color: #79a3b1;
+  padding-top: 20px;
 }
 
 
