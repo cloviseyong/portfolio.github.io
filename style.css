@@ -59,6 +59,7 @@ padding-right: 10px;
 .block {
   height: 600px;
   background-color: #79a3b1;
+  max-width: max-content;
 }
 
 .block2{
